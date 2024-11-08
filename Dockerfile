@@ -1,7 +1,7 @@
 FROM golang:1-alpine AS build
 
-ARG VERSION="0.6.0"
-ARG CHECKSUM="dfe5402d53501a44a15246862e38062536691a46fd804d45b1f9573627370d16"
+ARG VERSION="0.7.0"
+ARG CHECKSUM="5e8de50fb57e2f2d5be43898aa9c5a981a33e7b12606cefb0e88a26a489f5dbe"
 
 ADD https://github.com/prometheus/collectd_exporter/archive/v$VERSION.tar.gz /tmp/collectd_exporter.tar.gz
 

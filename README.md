@@ -20,10 +20,10 @@
 
 Available on Docker Hub as [`docker.io/ricardbejarano/collectd_exporter`](https://hub.docker.com/r/ricardbejarano/collectd_exporter):
 
-- [`0.6.0`, `latest` *(Dockerfile)*](Dockerfile)
+- [`0.7.0`, `latest` *(Dockerfile)*](Dockerfile)
 
 ### RedHat Quay
 
 Available on RedHat Quay as [`quay.io/ricardbejarano/collectd_exporter`](https://quay.io/repository/ricardbejarano/collectd_exporter):
 
-- [`0.6.0`, `latest` *(Dockerfile)*](Dockerfile)
+- [`0.7.0`, `latest` *(Dockerfile)*](Dockerfile)
